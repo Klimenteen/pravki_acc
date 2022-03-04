@@ -1,6 +1,6 @@
 <div class="formfeedback default_block">
     <div class="container">
-        <div class="formfeedback__title">Оптимизируйте налоги вашего бизнеса вместе с Jara Accounting</div>
+        <div class="formfeedback__title">Приведите в порядок свою бухгалтерию вместе с Jara Accounting</div>
         <div class="formfeedback__timeanswer">
             <img src="images/icons/clock-icon.svg" alt="">
             Среднее время ответа - 30 минут
