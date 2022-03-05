@@ -225,6 +225,8 @@
 
 <?php include 'templates/reviews.php';?>
 
+<?php $form_title = 'Приведите в порядок свою бухгалтерию вместе с Jara Accounting'; include 'templates/form-two-fields.php' ?>
+
 <?php include 'templates/form-four-fields.php';?>
 
 <?php include 'templates/after-opening-business.php';?>

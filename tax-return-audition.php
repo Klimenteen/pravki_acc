@@ -4,10 +4,9 @@
     <div class="container">
         <div class="banner__wrapper">
             <div class="banner__wrapper-content">
-                <h1 class="banner__title">Проведем аудит налоговых деклараций</h1>
+                <h1 class="banner__title">Аудит налоговых деклараций в Грузии</h1>
                 <p class="banner__text">
-                    Подача налоговых деклараций и уплата соответствующих налогов — неотъемлемая часть ведения бизнеса в
-                    Грузии.
+                Проведем аудит поданных деклараций за весь период и поможем доказать правомерность использования налоговых льгот.
                 </p>
                 <div class="banner__inner">
                     <img src="images/pictures/banner__simple-img4.png" alt="" />
@@ -123,8 +122,7 @@
             <div class="tile jaraaccounting__tile">
                 <div class="tile_title jaraaccounting-tile_title">Решим вопрос любой сложности</div>
                 <div class="tile_text jaraaccounting-tile_text">
-                    Отвечаем на все вопросы руководителя и главного бухгалтера, только практическими решениями,
-                    накопленными за 14 лет опыта
+                    Отвечаем на все вопросы руководителя и главного бухгалтера, только практическими решениями
                 </div>
             </div>
         </div>
@@ -134,6 +132,8 @@
 <?php include 'templates/business-cases.php'; ?>
 
 <?php include 'templates/reviews.php';?>
+
+<?php $form_title = 'Приведите в порядок налоговые декларации вместе с Jara Accounting'; include 'templates/form-two-fields.php' ?>
 
 <?php include 'templates/form-four-fields.php';?>
 
